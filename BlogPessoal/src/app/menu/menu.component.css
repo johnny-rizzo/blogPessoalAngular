@@ -5,3 +5,11 @@
 .a{
     cursor: pointer;
 }
+
+.bg-color{
+    background-color: rgb(34, 102, 180);
+}
+
+.texto{
+    font-family:monospace;
+}

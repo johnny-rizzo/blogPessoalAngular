@@ -22,3 +22,15 @@ ul.social-network li{
 .fa-linkedin-square:hover{
     color: #0072b1;
 }
+
+.bg-color{
+    background-color: rgb(58, 144, 241);
+}
+
+.bg-color-rodape{
+    background-color: rgb(34, 102, 180);
+}
+
+.texto{
+    font-family: monospace;
+}
